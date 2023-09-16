@@ -1,5 +1,11 @@
 # Tugas-python
 Saya membuat tugas  di python
+soal:
+Azmi punya gelas ukuran 8 liter berisi air penuh. dan gelas kosong ukuran 5 liter dan 3 liter. Kemudian Anggun ingin meminta air
+
+hanya 4 liter saja. buatkan algoritma supaya anggun mendapatkan air tepat seperti yang dia inginkan?
+
+jawaban
 print("step 1: Isi gelas berukuran 8 liter hingga penuh.")
 print("step 2: Tuangkan air dari gelas 8 liter ke dalam gelas 5 liter hingga gelas 5 liter penuh. Ini akan meninggalkan Anda dengan 3 liter air di dalam gelas 8 liter.")
 print("step 3: Tuangkan air dari gelas 5 liter ke dalam gelas 3 liter hingga gelas 3 liter penuh. Sekarang, Anda akan memiliki 2 liter air di dalam gelas 5 liter.")
