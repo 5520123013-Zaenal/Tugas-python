@@ -6,9 +6,21 @@ Azmi punya gelas ukuran 8 liter berisi air penuh. dan gelas kosong ukuran 5 lite
 hanya 4 liter saja. buatkan algoritma supaya anggun mendapatkan air tepat seperti yang dia inginkan?
 
 jawaban
-print("step 1: Isi gelas berukuran 8 liter hingga penuh.")
-print("step 2: Tuangkan air dari gelas 8 liter ke dalam gelas 5 liter hingga gelas 5 liter penuh. Ini akan meninggalkan Anda dengan 3 liter air di dalam gelas 8 liter.")
-print("step 3: Tuangkan air dari gelas 5 liter ke dalam gelas 3 liter hingga gelas 3 liter penuh. Sekarang, Anda akan memiliki 2 liter air di dalam gelas 5 liter.")
-print("step 4: Tuangkan air dari gelas 3 liter ke dalam gelas 8 liter yang sudah berisi 3 liter air. Dengan demikian, Anda akan memiliki 5 liter air di dalam gelas 8 liter dan 0 liter di dalam gelas 3 liter.")
-print("step 5: Sekarang, tuangkan air dari gelas 5 liter yang berisi 5 liter air ke dalam gelas 3 liter yang kosong. Ini akan meninggalkan Anda dengan 2 liter air di dalam gelas 3 liter.")
-print("Sekarang, Anda memiliki 4 liter air yang diinginkan dalam gelas 5 liter. Anggun dapat meminta air dari gelas 5 liter, dan itu akan menjadi tepat 4 liter sesuai dengan permintaannya.")
+print("Mulailah dengan gelas ukuran 8 liter yang berisi air penuh.")
+
+print("Tuangkan air dari gelas 8 liter ke dalam gelas 5 liter hingga gelas 5 liter penuh. Anda sekarang memiliki 3 liter air di gelas 8 liter.")
+
+print("Tuangkan air dari gelas 5 liter ke dalam gelas 3 liter hingga gelas 3 liter penuh. Anda sekarang memiliki 2 liter air di gelas 5 liter.")
+
+print("Kemudian, tuangkan air dari gelas 8 liter (yang sekarang berisi 3 liter) ke dalam gelas 5 liter yang sudah memiliki 2 liter air. Ini akan meninggalkan Anda dengan 1 liter air di gelas 8 liter.")
+
+print("Sekarang, Anda memiliki 1 liter air di gelas 8 liter dan 2 liter air di gelas 5 liter. Gabungkan air dari kedua gelas ini ke dalam gelas 3 liter. Ini akan memberikan Anda 3 liter air di gelas 3 liter.")
+
+print("Sekarang, Anda memiliki 3 liter air di gelas 3 liter. Kosongkan gelas 3 liter.")
+
+print("Tuangkan 3 liter air dari gelas 8 liter ke dalam gelas 3 liter yang kosong. Sekarang, Anda akan memiliki 1 liter air di gelas 3 liter.")
+
+print("Selanjutnya, tuangkan 1 liter air dari gelas 5 liter ke dalam gelas 3 liter yang sudah berisi 1 liter air. Sekarang, Anda akan memiliki 4 liter air di gelas 3 liter, sesuai dengan yang diinginkan Anggun.")
+
+print("Dengan mengikuti langkah-langkah ini, Anggun akan mendapatkan 4 liter air sesuai dengan permintaannya.")
+
